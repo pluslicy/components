@@ -1,0 +1,20 @@
+.qui-btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 0 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 0.2em;
+}
+.qui-btn span {
+  height: 32px;
+  line-height: 32px;
+}
+.qui-btn .ico {
+  width: 32px;
+  height:32px;
+  vertical-align: middle;
+}

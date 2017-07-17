@@ -1,0 +1,17 @@
+.qui-nav{
+  width:80%;
+  margin: 0 auto;
+}
+.qui-nav > a{
+  float: left;
+  width:20%;
+  margin-left:2%;
+  text-align: center;
+}
+
+.qui-nav > a.active{
+  color: #4CAF50;
+  border-bottom: 4px solid #4CAF50;
+}
+
+

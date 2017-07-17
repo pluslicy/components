@@ -1,0 +1,25 @@
+.mod-module {
+  width:80%;
+  margin:0 auto;
+}
+.img-list > .img-box{
+  float: left;
+  width:32%;
+  background-color: cadetblue;
+}
+.img-list > .img-box:nth-child(2){
+  margin:0 2%;
+}
+.clear {
+  clear: both;
+}
+.img-list > .img-box p{
+  margin:8em 0;
+}
+.img-list > .img-box a {
+  color: aliceblue;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+
